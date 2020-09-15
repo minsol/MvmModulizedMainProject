@@ -1,0 +1,6 @@
+framework module MvmFramework {
+  umbrella header "MvmFramework.h"
+
+  export *
+  module * { export * }
+}
